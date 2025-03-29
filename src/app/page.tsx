@@ -6,7 +6,7 @@ const HomePage = () => {
     <p className={classes.paragraph}>
       <b>Multilingual, Techno-Functional Software Developer and Team Player.</b><br /><br />
 
-      Developed an internal web application at IBM, enabling employees to register and select internal projects, using a <b>front-end</b> stack of TypeScript, HTML, and CSS, alongside a robust <b>back-end</b> with <b>database</b> management. Proficient in CI/CD practices for seamless integration and deployment.<br /><br />
+      Developed an internal web application at IBM, enabling employees to register and select internal projects, using a <b>front-end</b> stack of Angular, TypeScript, HTML, and CSS, alongside a robust <b>back-end Java/Kotlin</b> with <b>database</b> management. Proficient in CI/CD practices for seamless integration and deployment.<br /><br />
 
       Proven success in delivering robust solutions in high-tech environments, with expertise in agile teams and a commitment to continuous learning. Currently expanding skills in <b>Java, Spring Boot, React</b>, and  <b>MySQL</b> through self-study and side projects.<br /><br />
 
