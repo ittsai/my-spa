@@ -1,8 +1,12 @@
 import Link from "next/link";
 import classes from "./page.module.css"
 import { SiLinkedin } from "react-icons/si";
+import Image from "next/image";
+import DB_Migration from "@/components/images/DatabaseMigration.png"
+import Monday_Integration from "@/components/images/MondayIntegration.png"
 
 const ExperiencePage = () => {
+
   return <div className="container">
     <h1>Projects</h1>
     <div className="projects">
@@ -25,7 +29,9 @@ const ExperiencePage = () => {
           <b>Java/Kotlin, Spring Boot, TypeScript JavaScript, MongoDB, JIRA, Git, Slack, GraphQL, Angular.JS, RESTFul APIs, Docker, UML</b></p>
         <ul>Achieved:
           <li>Integrated Monday.com with HAP. </li>
+          <Image src={DB_Migration} alt="Database Migration" width={300} height={250} unoptimized={true} />
           <li>Implemented Database Migrations</li>
+          <Image src={Monday_Integration} alt="Monday Integration" width={300} height={250} unoptimized={true} />
         </ul>
       </div>
       <div className={classes.project}>
