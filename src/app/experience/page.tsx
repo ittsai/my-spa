@@ -60,7 +60,7 @@ const ExperiencePage = () => {
       </div>
       <hr />
       <div className={classes.project}>
-        <h4><u>Project: Bencom Group - Netherlands - July 2019 - January 2021</u></h4>
+        <h4><u>Bencom Group - Netherlands - July 2019 - January 2021</u></h4>
         <ul>
           <li>Technical Advisory Services</li>
           <li>Requirements Analysis with Client Product Owner</li>
