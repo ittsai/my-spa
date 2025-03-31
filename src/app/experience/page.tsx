@@ -28,9 +28,9 @@ const ExperiencePage = () => {
         <p>Technologies Used: <br />
           <b>Java/Kotlin, Spring Boot, TypeScript JavaScript, MongoDB, JIRA, Git, Slack, GraphQL, Angular.JS, RESTFul APIs, Docker, UML</b></p>
         <ul>Achieved:
-          <li>Integrated Monday.com with HAP. </li>
-          <Image src={DB_Migration} alt="Database Migration" width={300} height={250} unoptimized={true} />
           <li>Implemented Database Migrations</li>
+          <Image src={DB_Migration} alt="Database Migration" width={300} height={250} unoptimized={true} />
+          <li>Integrated Monday.com with HAP. </li>
           <Image src={Monday_Integration} alt="Monday Integration" width={300} height={250} unoptimized={true} />
         </ul>
       </div>
